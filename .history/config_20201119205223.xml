@@ -1,0 +1,6 @@
+<widget ...>
+  ...
+  <preference name="GOOGLE_MAPS_ANDROID_API_KEY" value="(AIzaSyDZb6OKFP2j0vxKag7PB-HJzksGB9Q5EF0)" />
+  <preference name="GOOGLE_MAPS_IOS_API_KEY" value="(AIzaSyDZb6OKFP2j0vxKag7PB-HJzksGB9Q5EF0)" />
+  ...
+</widget>
